@@ -8,4 +8,4 @@
 
 
 
-[install]: itms-services://?action=download-manifest&url=https://example.com/manifest.plist
+[install]: itms-services://?action=download-manifest&url=https://github.com/zhouliangshun/MMC/raw/master/manifest.plist
