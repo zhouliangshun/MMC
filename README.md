@@ -15,7 +15,5 @@
 
 
 
-
-https://zhouliangshun.github.io/MMC/install.html
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
