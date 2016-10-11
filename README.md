@@ -14,6 +14,15 @@
 4).实现了简单的收货（扫描秒秒测->下载温度数据->展示温度曲线)
 
 
+# 版本: 0.2  [安装][install02]
+
+1).添加了发货流程
+
+2).已有安全温度设置
+
+3).去掉了未开发的功能
+
 
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
+[install02]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
