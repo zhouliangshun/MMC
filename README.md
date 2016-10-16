@@ -26,8 +26,14 @@
 
 1).修复不能设置安全温度问题
 
+# 版本: 0.4  [安装][install04]
+
+1).修复安全温度设置点击不灵敏问题
+2).添加了收货时的开始时间和结束时间设置
+
 
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
 [install02]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
-[install03]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
+[install03]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.3/install.html
+[install04]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.4/install.html
