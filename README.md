@@ -31,9 +31,15 @@
 1).修复安全温度设置点击不灵敏问题
 2).添加了收货时的开始时间和结束时间设置
 
+# 版本: 1.0.1  [安装][install05]
+
+1).新增本地历史记录功能
+2).收货和发货已上传至服务器（注：上传温度失败）
+
 
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
 [install02]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
 [install03]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.3/install.html
 [install04]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.4/install.html
+[install05]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.1/install.html
