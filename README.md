@@ -45,6 +45,16 @@
 
 2).修复了UI上的bug
 
+# 版本: 1.0.3  [安装][install07]
+
+1).兼容老版本的硬件
+
+2).修复了收货的时的起始时间跟下载温度的时间无关的bug
+
+3).添加了超温判断
+
+4).修复了设置里的版本号的显示错误
+
 
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
@@ -53,3 +63,4 @@
 [install04]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.4/install.html
 [install05]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.1/install.html
 [install06]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.2/install.html
+[install07]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.3/install.html
