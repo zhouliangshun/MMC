@@ -55,6 +55,14 @@
 
 4).修复了设置里的版本号的显示错误
 
+# 版本: 1.0.3  [安装][install08]
+
+1).修复了UI上的一些小bug
+
+2).收货时添加与服务器查询
+
+3).修复了温度上传bug
+
 
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
@@ -64,3 +72,4 @@
 [install05]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.1/install.html
 [install06]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.2/install.html
 [install07]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.3/install.html
+[install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
