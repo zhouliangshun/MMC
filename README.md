@@ -64,6 +64,17 @@
 3).修复了温度上传bug
 
 
+
+# 版本: 1.0.5  [安装][install09]
+
+1).修复了历史记录没有发货记录没有显示状态问题
+
+2).修复了使用秒秒测收货的是程序崩溃
+
+3).修复了使用快递单收货时可能一直加载状态
+
+4).修复了收货时选择发货时间可以小于收货时间的问题
+
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
 [install02]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
@@ -73,3 +84,4 @@
 [install06]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.2/install.html
 [install07]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.3/install.html
 [install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
+[install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
