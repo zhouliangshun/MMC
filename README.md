@@ -75,6 +75,16 @@
 
 4).修复了收货时选择发货时间可以小于收货时间的问题
 
+# 版本: 1.0.6  [安装][install10]
+
+1).增加了对新的设备支持
+
+2).增加了对上传状态的判断，防止未上传的数据无法重新上传。
+
+3).修复了发货时的状态不同步问题
+
+4).修复了状态不同步问题
+
 [install]: https://zhouliangshun.github.com/MMC/install.html
 [install01]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.1/install.html
 [install02]: https://zhouliangshun.github.com/MMC//MMC_IOT_0.2/install.html
@@ -85,3 +95,4 @@
 [install07]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.3/install.html
 [install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
 [install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
+[install10]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.6/install.html
