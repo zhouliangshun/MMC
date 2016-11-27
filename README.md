@@ -2,6 +2,17 @@
 
 [最新点击安装][install].
 
+# 版本: 1.0.7  [安装][install12]
+
+1).修复了一些英语的问题
+
+2).修复一下UI上的问题
+
+3).修复温度曲线图在iPhone 6上显示一次
+
+4).修复收发货不成功和崩溃的问题
+
+
 # 版本: 1.0.7  [安装][install11]
 
 1).增加了英语的支持
@@ -111,4 +122,5 @@
 [install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
 [install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
+[install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
 
