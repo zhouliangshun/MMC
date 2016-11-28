@@ -2,7 +2,7 @@
 
 [最新点击安装][install].
 
-# 版本: 1.0.7  [安装][install12]
+# 版本: 1.0.8  [安装][install12]
 
 1).修复了一些英语的问题
 
@@ -122,5 +122,5 @@
 [install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
 [install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
-[install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
+[install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
 
