@@ -2,13 +2,25 @@
 
 [最新点击安装][install].
 
+
+# 版本: 1.0.9  [安装][install13]
+
+1).修改了上传不成功问题
+
+2).修改了下载温度异常崩溃问题
+
+3).修改了数据有时没有保存的问题
+
+4).修改了一下UI的细节
+
+
 # 版本: 1.0.8  [安装][install12]
 
 1).修复了一些英语的问题
 
 2).修复一下UI上的问题
 
-3).修复温度曲线图在iPhone 6上显示一次
+3).修复温度曲线图在iPhone 6上显示异常
 
 4).修复收发货不成功和崩溃的问题
 
@@ -123,4 +135,5 @@
 [install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
 [install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
+[install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.9/install.html
 
