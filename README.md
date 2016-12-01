@@ -2,6 +2,17 @@
 
 [最新点击安装][install].
 
+# 版本: 1.1.beta  [安装][install14]
+
+1).修改零下温度值计算错误
+
+2).修改了一直“Download...”问题
+
+3).优化温度曲线图卡顿问题
+
+4).修改了温度时间不在秒秒测记录范围异常问题问题
+
+5).屏蔽了发货入口
 
 # 版本: 1.0.9  [安装][install13]
 
@@ -136,4 +147,5 @@
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
 [install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
 [install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.9/install.html
+[install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta/install.html
 
