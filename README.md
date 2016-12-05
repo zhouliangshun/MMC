@@ -147,5 +147,5 @@
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
 [install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
 [install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.9/install.html
-[install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta/install.html
+[install14]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta/install.html
 
