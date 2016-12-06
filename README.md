@@ -2,6 +2,17 @@
 
 [最新点击安装][install].
 
+# 版本: 1.1.beta2  [安装][install15]
+
+1).修改温度计算错误
+
+2).优化了温度曲线加载速度
+
+3).连接硬件加入了10s超时机制
+
+4).修复温度记录的列表排序温度
+
+
 # 版本: 1.1.beta  [安装][install14]
 
 1).修改零下温度值计算错误
@@ -148,4 +159,5 @@
 [install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
 [install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.9/install.html
 [install14]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta/install.html
+[install15]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta2/install.html
 
