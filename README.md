@@ -2,6 +2,16 @@
 
 [最新点击安装][install].
 
+
+# 版本: 1.1.beta3  [安装][install16]
+
+1).修改了异常温度没有在曲线上展现的问题
+
+2).加入了发货记录的删除功能
+
+3).修复了收货的Title错误
+
+
 # 版本: 1.1.beta2  [安装][install15]
 
 1).修改温度计算错误
@@ -155,9 +165,11 @@
 [install07]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.3/install.html
 [install08]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.4/install.html
 [install09]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.5/install.html
+[install10]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.6/install.html
 [install11]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.7/install.html
 [install12]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.8/install.html
 [install13]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.0.9/install.html
 [install14]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta/install.html
 [install15]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta2/install.html
+[install16]: https://zhouliangshun.github.com/MMC//MMC_IOT_1.1.beta3/install.html
 
